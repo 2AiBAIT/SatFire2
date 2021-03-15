@@ -1,6 +1,6 @@
 
 # connect to the API
-import api as api
+# import api as api
 from sentinelsat import SentinelAPI, read_geojson, geojson_to_wkt
 from datetime import date
 from collections import OrderedDict
